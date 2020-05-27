@@ -1,0 +1,36 @@
+
+/* .headlogin{
+  padding-top: 10px;
+  margin-top: 20px;
+  
+}
+h2{
+    margin: 20px; 
+    padding: 20px;
+}
+
+#para{
+  align-items: left;
+  float: left;
+} */
+
+#signuplink{
+  /* text-decoration: underline; */
+  color: #343a40;
+  font-weight: 700;
+}
+.errortext{
+  color: red;
+  font-size: smaller;
+  font-weight: 500;
+  text-align: left;
+  }
+  .form-group {
+      margin-bottom: .5rem;
+  }
+  .footsign{
+      padding-top: 10px;
+  }
+  #check{
+      text-align: left;
+  }
